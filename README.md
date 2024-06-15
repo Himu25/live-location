@@ -23,7 +23,7 @@ The Live Location Sharing Project enables users to share their live location wit
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/live-location-sharing.git
+   git clone https://github.com/Himu25/live-location.git
    cd live-location-sharing
    ```
 
