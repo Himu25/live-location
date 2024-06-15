@@ -24,7 +24,7 @@ The Live Location Sharing Project enables users to share their live location wit
 
    ```sh
    git clone https://github.com/Himu25/live-location.git
-   cd live-location-sharing
+   cd live-location
    ```
 
 2. Install the dependencies:
